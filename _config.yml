@@ -1,0 +1,14 @@
+layout_spectrum: 0.15436518541537225
+typography_spectrum: 0.30840417509898543
+color:
+  brandStrength: 0.4112720638513565
+  lightness: 0.2855003734584898
+  saturation: 0.5328906010836363
+  rhythmicContrast: 0.9534492045640945
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: dem rings
